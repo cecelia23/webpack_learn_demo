@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],[function(n,o,t){"use strict";function i(){console.log("i get from print O")}t.r(o),t.d(o,"default",(function(){return i}))}]]);
+//# sourceMappingURL=print.f9e45e06553087829083.js.map

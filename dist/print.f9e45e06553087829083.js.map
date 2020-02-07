@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/print.js"],"names":["myPrint","console","log"],"mappings":"sFAAe,SAASA,IACpBC,QAAQC,IAAI,sBADhB","file":"print.f9e45e06553087829083.js","sourcesContent":["export default function myPrint() {\r\n    console.log('i get from print O');\r\n}"],"sourceRoot":""}
