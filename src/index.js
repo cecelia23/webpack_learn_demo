@@ -1,7 +1,7 @@
 // import _ from 'lodash';
 import './style.css';
 // import MyImage from './icon.jpg';
-import myPrint from './print';
+// import myPrint from './print';
 import {cube} from './math';
 
 
