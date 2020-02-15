@@ -39,7 +39,7 @@ module.exports = {
     plugins:[
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
-            title: 'PWA'
+            title: 'rebase test'
         }),
         // new webpack.ProvidePlugin({
         //     join: ['lodash','join']
