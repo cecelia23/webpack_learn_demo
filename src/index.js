@@ -66,6 +66,7 @@ component().then(element => {
     if (module.hot) { //告诉 webpack 接受热替换的模块
         module.hot.accept('./print.js', () => {
             console.log('Accepting the updated printMe module!');
+            console.log('update in issue-2');
             document.body.removeChild(element); //删掉旧的element
             element = component(); //重新渲染页面后，component 更新 click 事件处理
             document.body.appendChild(element); //重新插入到网页中
