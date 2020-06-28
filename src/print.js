@@ -1,3 +1,4 @@
 export default function myPrint() {
-    console.log('i get from print O');
+    console.log('i get from print');
+    console.log('add something for test');
 }
